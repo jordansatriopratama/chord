@@ -3,14 +3,26 @@
     {
       "id": 1,
       "no": 1,
-      "name": "Chord A",
+      "chord": "Chord A",
       "poster": "https://www.justinguitar.com/media/W1siZiIsIjIwMTcvMDgvMzEvNWMwbDdxN2NxaF8xMTJfQV9jaG9yZF9ub3JtYWwuZ2lmIl1d?sha=a533a2ff6bdd8838"
     },
     {
       "id": 2,
       "no": 2,
-      "name": "Chord B",
+      "chord": "Chord B",
       "poster": "https://www.cyberfret.com/wp-content/uploads/2011/07/b-barre-chord-root-6th-string.gif"
+    },
+    {
+      "id": 3,
+      "no": 3,
+      "chord": "Chord C",
+      "poster": "https://www.justinguitar.com/media/W1siZiIsIjIwMTcvMDgvMzEvNnJnNXhsOGM0MV8xMzJfQ19jaG9yZC5naWYiXV0?sha=e4e52a83c52397ac"
+    },
+     {
+      "id": 4,
+      "no": 4,
+      "chord": "Chord D",
+      "poster": "https://www.justinguitar.com/media/W1siZiIsIjIwMTcvMDgvMzEvNmt1aWtjNzBla18xMTFfRF8yMGNob3JkLmdpZiJdXQ?sha=d8638189f6271134"
     }
   ]
 }
