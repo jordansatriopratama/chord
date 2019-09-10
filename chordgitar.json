@@ -23,6 +23,24 @@
       "no": 4,
       "chord": "Chord D",
       "poster": "https://www.justinguitar.com/media/W1siZiIsIjIwMTcvMDgvMzEvNmt1aWtjNzBla18xMTFfRF8yMGNob3JkLmdpZiJdXQ?sha=d8638189f6271134"
+    },
+     {
+      "id": 5,
+      "no": 5,
+      "chord": "Chord E",
+      "poster": "https://www.justinguitar.com/media/W1siZiIsIjIwMTcvMDgvMzEvaWM1anV5Y2JvXzExM19FX2Nob3JkLmdpZiJdXQ?sha=d1c293d39613eb21"
+    },
+     {
+      "id": 6,
+      "no": 6,
+      "chord": "Chord F",
+      "poster": "https://d1i98lg1qi3tmd.cloudfront.net/images/modules/BCS6/BC-161-F-chord-full.gif"
+    },
+    {
+      "id": 7,
+      "no": 7,
+      "chord": "Chord G",
+      "poster": "https://www.justinguitar.com/media/W1siZiIsIjIwMTcvMDgvMzEvMmhtOWhoYjZxMV8xODFfR19jaG9yZF9iaWcuZ2lmIl1d?sha=b6a3162b5bfd1572"
     }
   ]
 }
